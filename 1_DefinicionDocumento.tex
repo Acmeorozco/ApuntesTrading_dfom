@@ -1,0 +1,74 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% HEADER
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[letterpaper,twoside,12pt]{report}
+% Alternative Options:
+%	Paper Size: a4paper / a5paper / b5paper / letterpaper / legalpaper / executivepaper
+% Duplex: oneside / twoside
+% Base Font Size: 10pt / 11pt / 12pt
+
+%% Language %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[spanish]{babel} %francais, polish, spanish, ...
+\usepackage[T1]{fontenc}
+%\usepackage[ansinew]{inputenc}
+%\usepackage[latin1]{inputenc}
+\usepackage[utf8]{inputenc}
+\usepackage{enumitem}
+
+\usepackage{lmodern} %Type1-font for non-english texts and characters
+
+%% Packages for Graphics & Figures %%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{graphicx} %%For loading graphic files
+\usepackage{float} %%For loading graphic files
+
+%% Math Packages %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb, amsmath} %Paquetes matemáticos de la American Mathematical Society
+\usepackage{amsfonts}
+
+\usepackage{multirow} %for tables
+\usepackage{booktabs}  % Líneas horizontales de calidad
+
+%% Line Spacing %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\usepackage{setspace}
+%\singlespacing        %% 1-spacing (default)
+%\onehalfspacing       %% 1,5-spacing
+%\doublespacing        %% 2-spacing
+
+%% Other Packages %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{parskip}
+\usepackage{tabularx}
+\usepackage{array, ragged2e}
+%\usepackage{fancyhdr} %%Fancy headings
+%\usepackage{longtable} %%For tables, that exceed one page
+%\usepackage{quthesis}%
+
+\hyphenation{com-por-ta-mien-to in-ter-pre-ta-ci\'on con-di-cio-nes mo-vi-mien-tos}
+
+\makeatletter
+ \def\@textbottom{\vskip \z@ \@plus 1pt}
+ \let\@texttop\relax
+\makeatother
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% DOCUMENT
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+\input{./2_presentacion.tex}
+\tableofcontents
+\input{./3_Introduccion.tex}
+\input{./4_Conceptos.tex}
+\input{./5_PautasCorrectivas.tex}
+\input{./6_Volumen.tex}
+\input{./7_Estrategia.tex}
+\input{./8_Setup.tex}
+\input{./9_PlanTrading.tex}
+%\input{./appendixes.tex}
+\bibliographystyle{x_Biblio}
+\bibliography{x_Biblio}
+\nocite{*}
+\end{document}

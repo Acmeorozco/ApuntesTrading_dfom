@@ -1,0 +1,135 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{\numberline {1}Introducci\'on}{8}{}%
+\contentsline {section}{\numberline {1.1}Aportes y Contribuciones}{8}{}%
+\contentsline {section}{\numberline {1.2}Descripci\'on}{8}{}%
+\contentsline {chapter}{\numberline {2}Conceptos}{9}{}%
+\contentsline {section}{\numberline {2.1}Conceptos Clave en la Lectura Profesional}{9}{}%
+\contentsline {subsection}{\numberline {2.1.1}S.A.B - Sucesi\'on de Altos y Bajos}{9}{}%
+\contentsline {subsection}{\numberline {2.1.2}Intenci\'on}{10}{}%
+\contentsline {subsection}{\numberline {2.1.3}Desequilibrio}{11}{}%
+\contentsline {subsection}{\numberline {2.1.4}Ejemplo de Desequilibrio en el MES-0625 (Abril 2025)}{12}{}%
+\contentsline {subsection}{\numberline {2.1.5}Secado}{12}{}%
+\contentsline {subsection}{\numberline {2.1.6}Testeo}{14}{}%
+\contentsline {subsection}{\numberline {2.1.7}Divergencia}{14}{}%
+\contentsline {section}{\numberline {2.2}Fases y Estructuras del Profesional}{14}{}%
+\contentsline {subsection}{\numberline {2.2.1}Acumulaci\'on y Distribuci\'on}{14}{}%
+\contentsline {section}{\numberline {2.3}An\'alisis de Velas}{19}{}%
+\contentsline {subsection}{\numberline {2.3.1}Velas de Intenci\'on}{19}{}%
+\contentsline {subsection}{\numberline {2.3.2}Velas Envolventes (Outside Bars)}{19}{}%
+\contentsline {subsection}{\numberline {2.3.3}Velas de Rango Estrecho}{22}{}%
+\contentsline {subsection}{\numberline {2.3.4}Velas de Volumen Excesivo}{22}{}%
+\contentsline {subsection}{\numberline {2.3.5}Velas Doji y Velas Inside}{22}{}%
+\contentsline {subsection}{\numberline {2.3.6}Importancia del Contexto}{22}{}%
+\contentsline {subsection}{\numberline {2.3.7}Integraci\'on con An\'alisis de Volumen}{22}{}%
+\contentsline {section}{\numberline {2.4}An\'alisis de Velas: Integrando los enfoques de Al Brooks y Miguel \'Angel Ram\'irez}{23}{}%
+\contentsline {subsection}{\numberline {2.4.1}La importancia del Contexto}{23}{}%
+\contentsline {subsection}{\numberline {2.4.2}Tipos de Velas y su interpretaci\'on operativa}{24}{}%
+\contentsline {subsubsection}{Velas de Intenci\'on (Trend Bar - Brooks / Velas con Volumen Alto - Ram\'irez)}{24}{}%
+\contentsline {subsubsection}{Velas de Rango Estrecho o Peonzas}{24}{}%
+\contentsline {subsubsection}{Velas de Volumen Excesivo (Exhaustion Bar - Brooks)}{25}{}%
+\contentsline {subsubsection}{Velas de Rechazo (Reversal Bar - Brooks)}{26}{}%
+\contentsline {subsection}{\numberline {2.4.3}Integraci\'on operativa: Precio y Volumen}{27}{}%
+\contentsline {subsection}{\numberline {2.4.4}Confirmaci\'on y Continuidad}{27}{}%
+\contentsline {subsection}{\numberline {2.4.5}Conclusi\'on Integradora}{28}{}%
+\contentsline {section}{\numberline {2.5}Zonas Relevantes: Profundizaci\'on Operativa}{28}{}%
+\contentsline {subsection}{\numberline {2.5.1}Soportes y Resistencias Clave}{28}{}%
+\contentsline {subsection}{\numberline {2.5.2}Interpretaci\'on del Gr\'afico, figura \ref {fig:soportes_resistencias_validacion}: Soportes, Resistencias y Validaci\'on}{29}{}%
+\contentsline {subsection}{\numberline {2.5.3}L\'ineas de Tendencia (Directrices)}{31}{}%
+\contentsline {subsubsection}{L\'ineas de Tendencia (Directrices) en el MES-0625}{31}{}%
+\contentsline {subsection}{\numberline {2.5.4}Patrones Complejos y Zonas Claviculares}{33}{}%
+\contentsline {subsection}{\numberline {2.5.5}Zonas de Acumulaci\'on y Distribuci\'on}{35}{}%
+\contentsline {subsection}{\numberline {2.5.6}Dilataciones y Falsas Rupturas}{37}{}%
+\contentsline {subsection}{\numberline {2.5.7}Dilataciones y Falsas Rupturas}{38}{}%
+\contentsline {subsection}{\numberline {2.5.8}Confirmaci\'on Operativa en Zonas Relevantes}{41}{}%
+\contentsline {subsection}{\numberline {2.5.9}Integraci\'on Pr\'actica y Estrat\'egica}{42}{}%
+\contentsline {subsection}{\numberline {2.5.10}Conclusi\'on sobre las Zonas Relevantes}{42}{}%
+\contentsline {section}{\numberline {2.6}S\'intesis Operativa}{42}{}%
+\contentsline {chapter}{\numberline {3}Pautas Correctivas}{46}{}%
+\contentsline {section}{\numberline {3.1}Concepto y Caracter\'isticas}{46}{}%
+\contentsline {section}{\numberline {3.2}Clasificaci\'on de las Pautas Correctivas}{47}{}%
+\contentsline {subsection}{\numberline {3.2.1}Pautas Correctivas Simples}{47}{}%
+\contentsline {subsubsection}{MonoOnda}{47}{}%
+\contentsline {subsubsection}{Pautas ABC~\cite {Elliottwave}}{47}{}%
+\contentsline {paragraph}{Zig-Zag Normal}{47}{}%
+\contentsline {paragraph}{Plana Normal~\cite {Elliottwave,ramirez18}}{50}{}%
+\contentsline {paragraph}{Plana Irregular o Fallo Irregular}{51}{}%
+\contentsline {subsection}{\numberline {3.2.2}Pautas Correctivas Complejas}{52}{}%
+\contentsline {paragraph}{Double y Triple Combinations~\cite {Elliottwave}}{52}{}%
+\contentsline {paragraph}{Diametric y Symmetrical~\cite {Neely04}}{55}{}%
+\contentsline {section}{\numberline {3.3}Identificaci\'on en Tiempo Real}{58}{}%
+\contentsline {section}{\numberline {3.4}Enfoques Complementarios}{58}{}%
+\contentsline {subsection}{\numberline {3.4.1}Anna Coulling: Volumen y Precio}{58}{}%
+\contentsline {subsection}{\numberline {3.4.2}Glenn Neely: Precisi\'on con NEoWave}{59}{}%
+\contentsline {subsection}{\numberline {3.4.3}Robert Prechter: Relaciones Fibonacci}{59}{}%
+\contentsline {subsection}{\numberline {3.4.4}Miguel \'Angel Ram\'irez: Psicolog\'ia del Mercado}{59}{}%
+\contentsline {subsection}{\numberline {3.4.5}Al Brooks: Patrones de Precio}{59}{}%
+\contentsline {section}{\numberline {3.5}Errores Comunes y C\'omo Evitarlos}{59}{}%
+\contentsline {section}{\numberline {3.6}Conclusi\'on}{59}{}%
+\contentsline {chapter}{\numberline {4}Volumen}{60}{}%
+\contentsline {section}{\numberline {4.1}Definici\'on y Rol del Volumen}{60}{}%
+\contentsline {section}{\numberline {4.2}Comportamiento e Interpretaci\'on del Volumen}{61}{}%
+\contentsline {section}{\numberline {4.3}Aplicaci\'on Pr\'actica en 2 Minutos}{61}{}%
+\contentsline {subsection}{\numberline {4.3.1}Rupturas y Volumen de Intenci\'on de Verdad}{61}{}%
+\contentsline {subsection}{\numberline {4.3.2}Enfoques y Estrategias}{65}{}%
+\contentsline {section}{\numberline {4.4}Cap\'itulo 12: Volumen y Precio -- La Siguiente Generaci\'on}{65}{}%
+\contentsline {subsection}{\numberline {4.4.1}Gr\'afico de vela-volumen}{65}{}%
+\contentsline {subsection}{\numberline {4.4.2}Volumen delta}{66}{}%
+\contentsline {subsection}{\numberline {4.4.3}Volumen delta acumulado}{66}{}%
+\contentsline {subsection}{\numberline {4.4.4}Conclusi\'on del cap\'itulo}{66}{}%
+\contentsline {section}{\numberline {4.5}Cap\'itulo 6: An\'alisis del Precio por Volumen -- El Siguiente Nivel}{66}{}%
+\contentsline {subsection}{\numberline {4.5.1}Patrones de Velas Clave}{67}{}%
+\contentsline {subsection}{\numberline {4.5.2}Volumen de parada}{67}{}%
+\contentsline {subsection}{\numberline {4.5.3}Volumen m\'aximo}{67}{}%
+\contentsline {subsection}{\numberline {4.5.4}Perspectiva de an\'alisis}{67}{}%
+\contentsline {subsection}{\numberline {4.5.5}Complemento de Miguel \'Angel Ram\'irez}{67}{}%
+\contentsline {subsection}{\numberline {4.5.6}S\'intesis metodol\'ogica y Criterio compartido}{68}{}%
+\contentsline {section}{\numberline {4.6}Conclusi\'on}{68}{}%
+\contentsline {section}{\numberline {4.7}Definici\'on y Rol del Volumen}{68}{}%
+\contentsline {section}{\numberline {4.8}Comportamiento e Interpretaci\'on del Volumen}{69}{}%
+\contentsline {section}{\numberline {4.9}Aplicaci\'on Pr\'actica en 2 Minutos}{70}{}%
+\contentsline {subsection}{\numberline {4.9.1}Rupturas y Volumen de Intenci\'on de Verdad}{70}{}%
+\contentsline {subsection}{\numberline {4.9.2}Enfoques y Estrategias}{70}{}%
+\contentsline {subsection}{\numberline {4.9.3}Volumen delta acumulado}{71}{}%
+\contentsline {chapter}{\numberline {5}Estrategia}{77}{}%
+\contentsline {section}{\numberline {5.1}Estrategia h\'{i}brida de volumen y acci\'on del precio con pautas correctivas}{77}{}%
+\contentsline {subsection}{\numberline {5.1.1}Puntos de conjunci\'on entre Ram\'irez, Brooks y Coulling - Adaptada a 2 minutos y aplicada al entorno de 5800}{77}{}%
+\contentsline {subsubsection}{Puntos de conjunci\'on entre Ram\'irez, Brooks y Coulling (en 2 minutos)}{77}{}%
+\contentsline {subsubsection}{\textquestiondown C\'{o}mo quedar\'{i}a una estrategia de trading basada en volumen y acci\'on del precio en 2 minutos con pautas correctivas, aplicada a 5800?}{78}{}%
+\contentsline {subsubsection}{\textquestiondown Qu\'{e} aspectos se deben considerar en 2 minutos con pautas correctivas cerca de 5800?}{80}{}%
+\contentsline {section}{\numberline {5.2}Modelo de \textit {Backtesting} Te\'{o}rico de la Estrategia en 5800 (ES-0625)}{81}{}%
+\contentsline {subsection}{\numberline {5.2.1}Supuestos del Modelo}{82}{}%
+\contentsline {subsection}{\numberline {5.2.2}Criterios de Entrada y Salida}{82}{}%
+\contentsline {subsection}{\numberline {5.2.3}M\'etricas de Evaluaci\'on}{82}{}%
+\contentsline {subsection}{\numberline {5.2.4}Tabla de Resultados Esperados}{83}{}%
+\contentsline {subsection}{\numberline {5.2.5}Conclusiones del Modelo}{83}{}%
+\contentsline {section}{\numberline {5.3}Modelo de \textit {Backtesting} Te\'{o}rico Mejorado (Objetivo: 80\,\%)}{84}{}%
+\contentsline {subsection}{\numberline {5.3.1}Modificaciones Incorporadas}{84}{}%
+\contentsline {subsection}{\numberline {5.3.2}Criterios Operativos Mejorados}{84}{}%
+\contentsline {subsection}{\numberline {5.3.3}M\'etricas del Nuevo Modelo}{85}{}%
+\contentsline {subsection}{\numberline {5.3.4}Tabla de Resultados Te\'{o}ricos}{86}{}%
+\contentsline {subsection}{\numberline {5.3.5}Conclusi^^c3^^b3n del Modelo Mejorado}{87}{}%
+\contentsline {section}{\numberline {5.4}Evoluci\'on de la Estrategia: Modelo Mejorado con Validaci\'on Multinivel}{87}{}%
+\contentsline {subsection}{\numberline {5.4.1}Principales Ajustes Incorporados}{87}{}%
+\contentsline {subsection}{\numberline {5.4.2}Resultados del Modelo Mejorado}{88}{}%
+\contentsline {subsection}{\numberline {5.4.3}Ventajas Estrat^^c3^^a9gicas}{88}{}%
+\contentsline {subsection}{\numberline {5.4.4}Recomendaciones Finales}{88}{}%
+\contentsline {section}{\numberline {5.5}Validaci\'on multinivel}{89}{}%
+\contentsline {section}{\numberline {5.6}Gesti\'on emocional y disciplina operativa}{90}{}%
+\contentsline {section}{\numberline {5.7}Adaptaciones a condiciones de mercado}{91}{}%
+\contentsline {section}{\numberline {5.8}Validaci\'on y proyecci\'on de la estrategia}{92}{}%
+\contentsline {chapter}{\numberline {6}Setup's}{97}{}%
+\contentsline {chapter}{\numberline {7}Plan de Trading}{98}{}%
+\contentsline {section}{\numberline {7.1}\*}{98}{}%
+\contentsline {section}{\numberline {7.2}\*}{99}{}%
+\contentsline {subsection}{\numberline {7.2.1}\*}{99}{}%
+\contentsline {subsection}{\numberline {7.2.2}\*}{99}{}%
+\contentsline {subsection}{\numberline {7.2.3}\*}{99}{}%
+\contentsline {subsection}{\numberline {7.2.4}\*}{100}{}%
+\contentsline {section}{\numberline {7.3}\*}{100}{}%
+\contentsline {section}{\numberline {7.4}\*}{100}{}%
+\contentsline {section}{\numberline {7.5}\*}{101}{}%
+\contentsline {section}{\numberline {7.6}\*}{101}{}%
+\contentsline {section}{\numberline {7.7}\*}{101}{}%
+\contentsline {section}{\numberline {7.8}\*}{102}{}%
+\contentsline {section}{\numberline {7.9}\*}{103}{}%
+\contentsline {section}{\numberline {7.10}\*}{104}{}%

@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2025.3.22)  3 JUL 2025 14:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2025.3.22)  17 SEP 2025 10:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/danielfernandoorozcomorales/Documents/Doc_LaTeX/1_ApuntesyConceptos.tex
-(/Users/danielfernandoorozcomorales/Documents/Doc_LaTeX/1_ApuntesyConceptos.tex
+**/Users/danielfernandoorozcomorales/Documents/ApuntesTrading_dfom/1_ApuntesyConceptos.tex
+(/Users/danielfernandoorozcomorales/Documents/ApuntesTrading_dfom/1_ApuntesyConceptos.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/report.cls
@@ -1314,12 +1314,12 @@ L3 programming layer <2025-01-18>
  ) 
 Here is how much of TeX's memory you used:
  6342 strings out of 473530
- 107680 string characters out of 5711807
+ 107830 string characters out of 5711807
  502306 words of memory out of 5000000
  29420 multiletter control sequences out of 15000+600000
  646066 words of font info for 93 fonts, out of 8000000 for 9000
  1145 hyphenation exceptions out of 8191
- 57i,11n,65p,926b,426s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,11n,65p,936b,426s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ec.enc}{/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathit.enc}{/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathsy.enc}{/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-rm.enc}{/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ts1.enc}</Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx8.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbxi10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmcsc10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmcsco10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmmi12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr17.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
 Output written on 1_ApuntesyConceptos.pdf (105 pages, 11001032 bytes).
 PDF statistics:
