@@ -1,0 +1,95 @@
+\chapter{Volumen}  % Conceptos relativos a la operativa con volumen
+
+El volumen es un pilar clave en el an\'alisis t\'ecnico de los futuros del S\&P 500 (ES), midiendo la actividad del mercado y revelando la fuerza de los movimientos de precios. Este cap\'itulo explora su definici\'on, comportamiento e interpretaci\'on pr\'actica en un marco temporal de 2 minutos, integrando las perspectivas de Anna Coulling, Miguel \"Angel Ram\'irez y Al Brooks para ofrecer una visi\'on completa y aplicable al trading.
+
+\section{Definici\'on y Rol del Volumen}
+
+El volumen en los futuros del ES, disponible a trav\'es de plataformas como CME Group, representa el \textbf{n\'umero total de contratos negociados} en un per\'iodo (e.g., una vela de 2 minutos o un d\'ia), distinto del \textit{open interest} (contratos abiertos no liquidados). Act\'ua como indicador de \textbf{participaci\'on y liquidez}: un volumen alto refleja alta actividad y facilidad para operar, mientras que un volumen bajo sugiere calma o desinter\'es. Anna Coulling lo considera el ``combustible'' del mercado, Miguel \"Angel Ram\'irez la ``huella'' de los operadores institucionales, y Al Brooks un dato secundario frente a la acci\'on del precio.
+
+\section{Comportamiento e Interpretaci\'on del Volumen}
+
+El volumen var\'ia seg\'un las condiciones del mercado. Permite evaluar la fuerza y validez de los movimientos de precios:
+
+\begin{itemize}
+    \item \textbf{Alta actividad}: Se incrementa con \textbf{volatilidad} (e.g., tras noticias econ\'omicas), \textbf{rupturas de niveles t\'ecnicos} (soportes/resistencias), o en la \textbf{apertura y cierre} de la sesi\'on.
+    \item \textbf{Baja actividad}: Disminuye en \textbf{mercados laterales}, \textbf{sin eventos relevantes} o \textbf{festividades}.
+    \item \textbf{Equilibrio}: Raro, pero en \textbf{tendencias sostenidas} puede estabilizarse, reflejando oferta y demanda equilibradas.
+\end{itemize}
+
+Existen diversas clasificaciones de volumen: \textbf{volumen de parada}, \textbf{volumen de cl\'imax}, \textbf{volumen profesional} y \textbf{volumen de prueba}. Cada uno cumple una funci\'on en la narrativa institucional del mercado y puede ser clave para anticipar transiciones entre fases de acumulaci\'on, distribuci\'on o continuaci\'on.
+
+Observar el volumen relativo entre varias velas consecutivas es esencial. Un aumento progresivo de volumen en tres velas alcistas sugiere una tendencia con respaldo; si la tercera vela tiene cuerpo peque\~no y volumen anormalmente alto, puede implicar distribuci\'on oculta.
+
+\section{Aplicaci\'on Pr\'actica en 2 Minutos}
+
+El volumen es esencial en operativa de corto plazo (2 minutos), permitiendo validar movimientos, detectar trampas y afinar decisiones en niveles clave. La lectura conjunta de volumen, precio y contexto permite anticipar reversiones o confirmaciones en tiempo real.
+
+\subsection{Rupturas, Confirmaciones y Trampas}
+
+\input{includes/ruptura_volumen_intencion_2min}
+
+\subsection{Volumen Delta Acumulado}
+
+Este indicador suma el delta barra a barra para construir una curva acumulativa que refleja:
+\begin{itemize}
+  \item Tendencias sostenidas de compra o venta.
+  \item Divergencias con el precio (precio en alza pero delta bajando).
+  \item Confirmaci\'on o invalidaci\'on de rompimientos.
+\end{itemize}
+
+Una lectura avanzada del volumen delta permite detectar \textbf{absorci\'on}: cuando el precio intenta subir, pero el delta es negativo, indica que hay m\'as ventas agresivas contrarrestando el avance. Esta divergencia sugiere que el profesional est\'a vendiendo en la subida, anticipando una posible reversi\'on.
+
+\section{Extensiones Avanzadas del An\'alisis de Volumen}
+
+\begin{itemize}
+  \item \textbf{Gr\'afico de vela-volumen}: adapta el ancho de la vela a la cantidad de volumen, ayudando a identificar rupturas sin apoyo institucional.
+  \item \textbf{Volumen delta}: diferencia entre compras agresivas (``ask'') y ventas agresivas (``bid'').
+  \item \textbf{Delta acumulado}: curva que permite confirmar la presi\'on institucional sostenida.
+\end{itemize}
+
+Estas herramientas no reemplazan al VPA tradicional, sino que lo complementan, aportando profundidad operativa.
+
+\section*{Cuadro Comparativo de Enfoques sobre el Volumen}
+
+\begin{table}[H]
+\centering
+\renewcommand{\arraystretch}{1.5}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{|>{\RaggedRight\arraybackslash}p{4cm}|
+                >{\RaggedRight\arraybackslash}p{4cm}|
+                >{\RaggedRight\arraybackslash}p{4cm}|
+                >{\RaggedRight\arraybackslash}p{4cm}|}
+\hline
+\textbf{Categor\'ia} & \textbf{Anna Coulling (VPA)} & \textbf{Miguel \'Angel Ram\'irez} & \textbf{Al Brooks} \\
+\hline
+\textbf{Rol del volumen} & ``Combustible'' del mercado. Validaci\'on de movimientos. & Huella del operador institucional. & Dato secundario frente a la acci\'on del precio. \\
+\hline
+\textbf{Enfoque metodol\'ogico} & Volumen + velas en contexto. & Volumen relativo, intenci\'on, testeo y secado. & Lectura de patrones de velas y microestructuras. \\
+\hline
+\textbf{Herramientas clave} & Volumen de parada, volumen m\'aximo, vela-volumen. & Volumen relativo, zonas relevantes, estructura profesional. & Doble techo, rompimientos falsos, swing high/low. \\
+\hline
+\textbf{Marco temporal preferido} & Cualquier marco. \''Enfasis en 5m y 15m. & Intrad\'ia, sobre todo 2m y 5m. & Muy corto plazo: 1m--5m. \\
+\hline
+\textbf{Aplicaci\'on pr\'actica} & Confirmar entradas o salidas. Detectar agotamientos. & Validar trampas, anticipar zonas de acci\'on profesional. & Lectura visual pura del precio, sin volumen. \\
+\hline
+\end{tabular}
+} % fin de resizebox
+\caption{Comparaci\'on operativa entre los enfoques de Coulling, Ram\'irez y Brooks}
+\end{table}
+
+\section*{Glosario de T\'erminos Clave}
+
+\begin{description}[style=nextline]
+  \sloppy
+  \item[Volumen] N\'umero total de contratos negociados durante un per\'iodo de tiempo espec\'ifico.
+  \item[Intenci\'on] Movimiento fuerte en el precio acompa\~nado de volumen significativo que indica presencia institucional.
+  \item[Testeo] Movimiento de retroceso con bajo volumen que valida una zona previa como soporte o resistencia.
+  \item[Secado] Disminuci\'on notable del volumen que indica retirada del inter\'es profesional y posible cambio de direcci\'on.
+  \item[Volumen de parada] Pico abrupto de volumen al final de una tendencia, indicando posible giro.
+  \item[Volumen m\'aximo] Alta participaci\'on en una vela que puede confirmar o desmentir un rompimiento t\'ecnico.
+  \item[Volumen delta] Diferencia entre compras agresivas (``ask'') y ventas agresivas (``bid'').
+  \item[Delta acumulado] Suma progresiva del delta, usada para confirmar la intenci\'on sostenida del mercado.
+  \item[Absorci\'on] Situaci\'on en la que el precio se mueve en una direcci\'on, pero el volumen delta indica presi\'on opuesta oculta.
+  \item[Distribuci\'on] Venta institucional oculta durante un alza de precio; puede detectarse por divergencias en volumen.
+  \item[Acumulaci\'on] Compra institucional disfrazada durante una baja del precio; revelada por patrones y volumen an\'omalo.
+\end{description}
