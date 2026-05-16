@@ -119,17 +119,17 @@
 \contentsline {section}{\numberline {5.8}Validaci\'on y proyecci\'on de la estrategia}{92}{}%
 \contentsline {chapter}{\numberline {6}Setup's}{97}{}%
 \contentsline {chapter}{\numberline {7}Plan de Trading}{98}{}%
-\contentsline {section}{\numberline {7.1}\*}{98}{}%
+\contentsline {section}{\numberline {7.1}\*}{99}{}%
 \contentsline {section}{\numberline {7.2}\*}{99}{}%
 \contentsline {subsection}{\numberline {7.2.1}\*}{99}{}%
 \contentsline {subsection}{\numberline {7.2.2}\*}{99}{}%
-\contentsline {subsection}{\numberline {7.2.3}\*}{99}{}%
+\contentsline {subsection}{\numberline {7.2.3}\*}{100}{}%
 \contentsline {subsection}{\numberline {7.2.4}\*}{100}{}%
 \contentsline {section}{\numberline {7.3}\*}{100}{}%
 \contentsline {section}{\numberline {7.4}\*}{100}{}%
 \contentsline {section}{\numberline {7.5}\*}{101}{}%
-\contentsline {section}{\numberline {7.6}\*}{101}{}%
-\contentsline {section}{\numberline {7.7}\*}{101}{}%
+\contentsline {section}{\numberline {7.6}\*}{102}{}%
+\contentsline {section}{\numberline {7.7}\*}{102}{}%
 \contentsline {section}{\numberline {7.8}\*}{102}{}%
 \contentsline {section}{\numberline {7.9}\*}{103}{}%
 \contentsline {section}{\numberline {7.10}\*}{104}{}%

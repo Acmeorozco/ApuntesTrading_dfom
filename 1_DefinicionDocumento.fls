@@ -1,6 +1,6 @@
-PWD /Users/danielfernandoorozcomorales/Documents/ApuntesTrading_dfom
+PWD /Volumes/ACMEOROZCO4/Personal/Curso Precio y Volumen MAR/Apuntes Precio y Volumen/ProyectoApuntes/ApuntesTrading_dfom
 INPUT /Users/danielfernandoorozcomorales/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt
-INPUT /Users/danielfernandoorozcomorales/Documents/ApuntesTrading_dfom/1_DefinicionDocumento.tex
+INPUT /Volumes/ACMEOROZCO4/Personal/Curso Precio y Volumen MAR/Apuntes Precio y Volumen/ProyectoApuntes/ApuntesTrading_dfom/1_DefinicionDocumento.tex
 OUTPUT 1_DefinicionDocumento.log
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/report.cls
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/report.cls
@@ -385,9 +385,8 @@ INPUT ./9_PlanTrading.tex
 INPUT ./9_PlanTrading.tex
 INPUT 9_PlanTrading.tex
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/ec-lmbx12.tfm
-INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/ec-lmcsco10.tfm
-INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/ec-lmcsc10.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/ec-lmbx8.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/ec-lmcsc10.tfm
 INPUT ./1_DefinicionDocumento.bbl
 INPUT ./1_DefinicionDocumento.bbl
 INPUT 1_DefinicionDocumento.bbl
@@ -405,8 +404,6 @@ INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/l
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbxi10.pfb
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmcsc10.pfb
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmcsc10.pfb
-INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmcsco10.pfb
-INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmcsco10.pfb
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmmi12.pfb
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmmi12.pfb
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr12.pfb

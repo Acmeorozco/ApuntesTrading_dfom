@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2025.3.22)  17 SEP 2025 10:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2025.3.22)  16 MAY 2026 11:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/danielfernandoorozcomorales/Documents/ApuntesTrading_dfom/1_DefinicionDocumento.tex
-(/Users/danielfernandoorozcomorales/Documents/ApuntesTrading_dfom/1_DefinicionDocumento.tex
+**"/Volumes/ACMEOROZCO4/Personal/Curso Precio y Volumen MAR/Apuntes Precio y Volumen/ProyectoApuntes/ApuntesTrading_dfom/1_DefinicionDocumento.tex"
+(/Volumes/ACMEOROZCO4/Personal/Curso Precio y Volumen MAR/Apuntes Precio y Volumen/ProyectoApuntes/ApuntesTrading_dfom/1_DefinicionDocumento.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/report.cls
@@ -1244,36 +1244,10 @@ Cap\'{\i }tulo 6.
 ]
 Cap\'{\i }tulo 7.
 
-LaTeX Font Warning: Font shape `T1/lmr/m/scit' undefined
-(Font)              using `T1/lmr/m/scsl' instead on input line 22.
-
-
-LaTeX Font Warning: Font shape `T1/lmr/m/scit' undefined
-(Font)              using `T1/lmr/m/scsl' instead on input line 22.
-
-
-LaTeX Font Warning: Font shape `T1/lmr/m/scit' undefined
-(Font)              using `T1/lmr/m/scsl' instead on input line 23.
-
-
-LaTeX Font Warning: Font shape `T1/lmr/m/scit' undefined
-(Font)              using `T1/lmr/m/scsl' instead on input line 23.
-
-
-Overfull \hbox (2.93536pt too wide) in paragraph at lines 34--38
-\T1/lmr/m/n/12 Alcanzar un \T1/lmr/m/sc/12 ra-tio acier-tos/fallos $\OMS/lmsy/m/n/12 ^^U \OT1/lmr/m/n/12 60\OML/lmm/m/it/12 =\OT1/lmr/m/n/12 40$ \T1/lmr/m/n/12 con \T1/lmr/m/sc/12 ries-go/beneficio
- []
-
-
 
 [98
 
 ]
-Overfull \hbox (22.41646pt too wide) in paragraph at lines 50--53
-[]\T1/lmr/m/n/12 Estrategia Tra-der \T1/lmr/bx/n/12 scal-per e in-trad'ia\T1/lmr/m/n/12 : b'usqueda de im-pul-sos de \T1/lmr/m/it/12 pre-cio+volumen
- []
-
-
 
 [99]
 
@@ -1281,13 +1255,8 @@ Overfull \hbox (22.41646pt too wide) in paragraph at lines 50--53
 
 [101]
 
-LaTeX Font Warning: Font shape `T1/lmr/m/scit' undefined
-(Font)              using `T1/lmr/m/scsl' instead on input line 156.
-
-
-
 [102]
-Overfull \hbox (0.5682pt too wide) in paragraph at lines 186--186
+Overfull \hbox (0.5682pt too wide) in paragraph at lines 173--173
  []|\T1/lmr/m/n/12 H.E.| 
  []
 
@@ -1321,17 +1290,17 @@ L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6358 strings out of 473530
- 108201 string characters out of 5711807
+ 6353 strings out of 473530
+ 108942 string characters out of 5711807
  502367 words of memory out of 5000000
- 29436 multiletter control sequences out of 15000+600000
- 646066 words of font info for 93 fonts, out of 8000000 for 9000
+ 29432 multiletter control sequences out of 15000+600000
+ 643222 words of font info for 92 fonts, out of 8000000 for 9000
  1145 hyphenation exceptions out of 8191
- 57i,11n,65p,938b,426s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ec.enc}{/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathit.enc}{/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathsy.enc}{/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-rm.enc}{/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ts1.enc}</Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx8.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbxi10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmcsc10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmcsco10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmmi12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr17.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on 1_DefinicionDocumento.pdf (106 pages, 11170626 bytes).
+ 57i,11n,65p,993b,426s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ec.enc}{/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathit.enc}{/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathsy.enc}{/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-rm.enc}{/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ts1.enc}</Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx8.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbxi10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmcsc10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmmi12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr17.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on 1_DefinicionDocumento.pdf (106 pages, 11141605 bytes).
 PDF statistics:
- 449 PDF objects out of 1000 (max. 8388607)
+ 444 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  126 words of extra memory for PDF output out of 10000 (max. 10000000)
 
