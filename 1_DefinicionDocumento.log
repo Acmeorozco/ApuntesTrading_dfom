@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2025.3.22)  16 MAY 2026 11:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2025.3.22)  16 MAY 2026 12:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1250,23 +1250,17 @@ Cap\'{\i }tulo 7.
 ]
 
 [99]
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
 
-[100]
-
-[101]
-
-[102]
-Overfull \hbox (0.5682pt too wide) in paragraph at lines 173--173
- []|\T1/lmr/m/n/12 H.E.| 
  []
 
 
 
-[103]) (1_DefinicionDocumento.bbl
+[100]) (1_DefinicionDocumento.bbl
 
-[104]
+[101]
 
-[105
+[102
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 77--79
@@ -1280,7 +1274,7 @@ Underfull \hbox (badness 3179) in paragraph at lines 77--79
 
 )
 
-[106] (1_DefinicionDocumento.aux
+[103] (1_DefinicionDocumento.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 )
@@ -1298,9 +1292,9 @@ Here is how much of TeX's memory you used:
  1145 hyphenation exceptions out of 8191
  57i,11n,65p,993b,426s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ec.enc}{/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathit.enc}{/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathsy.enc}{/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-rm.enc}{/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ts1.enc}</Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx8.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbxi10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmcsc10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmmi12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr17.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on 1_DefinicionDocumento.pdf (106 pages, 11141605 bytes).
+Output written on 1_DefinicionDocumento.pdf (103 pages, 11137340 bytes).
 PDF statistics:
- 444 PDF objects out of 1000 (max. 8388607)
+ 435 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  126 words of extra memory for PDF output out of 10000 (max. 10000000)
 

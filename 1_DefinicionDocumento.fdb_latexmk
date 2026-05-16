@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex 1_DefinicionDocumento"] 1778949178.59016 "1_DefinicionDocumento.aux" "1_DefinicionDocumento.bbl" "1_DefinicionDocumento" 1778949183.20962 0
+["bibtex 1_DefinicionDocumento"] 1778952103.86176 "1_DefinicionDocumento.aux" "1_DefinicionDocumento.bbl" "1_DefinicionDocumento" 1778952108.40622 0
   "./x_Biblio.bib" 1778947636.20294 3302 0f32bf589d2e258ca08a1cbe4b9ee926 ""
   "./x_Biblio.bst" 1778947636.20327 59506 016987d9be15acf51cdd7252d40ecec2 ""
-  "1_DefinicionDocumento.aux" 1778949182.06551 23793 9567c46cf589e324d9755030bcaad9e8 "pdflatex"
+  "1_DefinicionDocumento.aux" 1778952107.13358 23342 b468ca04f72a4dd0f2fc0816438a9494 "pdflatex"
   (generated)
   "1_DefinicionDocumento.bbl"
   "1_DefinicionDocumento.blg"
   (rewritten before read)
-["pdflatex"] 1778949179.01242 "/Volumes/ACMEOROZCO4/Personal/Curso Precio y Volumen MAR/Apuntes Precio y Volumen/ProyectoApuntes/ApuntesTrading_dfom/1_DefinicionDocumento.tex" "1_DefinicionDocumento.pdf" "1_DefinicionDocumento" 1778949183.21001 0
+["pdflatex"] 1778952104.32569 "/Volumes/ACMEOROZCO4/Personal/Curso Precio y Volumen MAR/Apuntes Precio y Volumen/ProyectoApuntes/ApuntesTrading_dfom/1_DefinicionDocumento.tex" "1_DefinicionDocumento.pdf" "1_DefinicionDocumento" 1778952108.40659 0
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ec.enc" 1742660350.98216 2375 baa924870cfb487815765f9094cf3728 ""
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathit.enc" 1742660350.98267 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathsy.enc" 1742660350.98287 2840 216e6e45ad352e2456e1149f28885bee ""
@@ -106,11 +106,11 @@
   "/Users/danielfernandoorozcomorales/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty" 1742665909.5009 13815 760b0c02f691ea230f5359c4e1de23a7 ""
   "/Users/danielfernandoorozcomorales/Library/Application Support/MiKTeX/texmfs/install/tex/latex/multirow/multirow.sty" 1742663607.1415 6696 886c9f3087d0b973ed2c19aa79cb3023 ""
   "/Users/danielfernandoorozcomorales/Library/Application Support/MiKTeX/texmfs/install/tex/latex/parskip/parskip.sty" 1742665896.7985 4288 94714aa7f535440f33181fec52a31963 ""
-  "/Volumes/ACMEOROZCO4/Personal/Curso Precio y Volumen MAR/Apuntes Precio y Volumen/ProyectoApuntes/ApuntesTrading_dfom/1_DefinicionDocumento.tex" 1778947635.34017 2354 31c0839dca36de0456a77015d1f827df ""
-  "1_DefinicionDocumento.aux" 1778949182.06551 23793 9567c46cf589e324d9755030bcaad9e8 "pdflatex"
-  "1_DefinicionDocumento.bbl" 1778949178.89544 3270 2f6a6f561fe6e016527cebf17debfdd2 "bibtex 1_DefinicionDocumento"
-  "1_DefinicionDocumento.tex" 1778947635.34017 2354 31c0839dca36de0456a77015d1f827df ""
-  "1_DefinicionDocumento.toc" 1778949182.07119 11173 4aa9451c84ffd48d7dc6101f85379679 "pdflatex"
+  "/Volumes/ACMEOROZCO4/Personal/Curso Precio y Volumen MAR/Apuntes Precio y Volumen/ProyectoApuntes/ApuntesTrading_dfom/1_DefinicionDocumento.tex" 1778952094.5375 2354 31c0839dca36de0456a77015d1f827df ""
+  "1_DefinicionDocumento.aux" 1778952107.13358 23342 b468ca04f72a4dd0f2fc0816438a9494 "pdflatex"
+  "1_DefinicionDocumento.bbl" 1778952104.22108 3270 2f6a6f561fe6e016527cebf17debfdd2 "bibtex 1_DefinicionDocumento"
+  "1_DefinicionDocumento.tex" 1778952094.5375 2354 31c0839dca36de0456a77015d1f827df ""
+  "1_DefinicionDocumento.toc" 1778952107.13941 10906 9af4d14280742ff7adf5ec1df1d2d1f8 "pdflatex"
   "2_presentacion.tex" 1778947635.69258 1062 3ed1e139fb2dc80efa73ee28f65d9a03 ""
   "3_Introduccion.tex" 1778947635.69282 642 6bc99b7b2d96116c985ba1492a6fc049 ""
   "4_Conceptos.tex" 1778947635.69325 54043 94dcf397e118ead63f0fe04501af128e ""
@@ -118,7 +118,7 @@
   "6_Volumen.tex" 1778947635.70747 29416 d054ea257ec202aa8603b03389bd1b8d ""
   "7_Estrategia.tex" 1778947635.71002 32926 f7513efa499ce9a66ea1c380da8a5216 ""
   "8_Setup.tex" 1778947635.71025 551 1f367f3b74733780eabfb9d97106a09a ""
-  "9_PlanTrading.tex" 1778949173.71877 9545 768b810f3642f993fdddbd8951b1d678 ""
+  "9_PlanTrading.tex" 1778951899.55992 9995 1cb570694c7483a3e5752bb3e814ca42 ""
   "images/Acumulacion.png" 1778947635.74558 1166086 0aa58db78372af53f74bce9fe058a6fb ""
   "images/Dilatacion_Falsa_Ruptura.png" 1778947635.88185 884126 83f06dfc3e751ab0578f7c0ddb4edd2f ""
   "images/Distribucion.png" 1778947635.91945 698848 3d1224c979682c748275df5ce1ff1909 ""
